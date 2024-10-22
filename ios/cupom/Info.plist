@@ -31,6 +31,12 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>A permissão é necessaria para poder capturar sua foto de perfil caso desejar</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>A permissão é necessaria para poder capturar sua foto de perfil caso desejar</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>A permissão é necessaria para poder adicionar uma foto de perfil caso desejar</string>
 	<key>UILaunchStoryboardName</key>
 	<string>SplashScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
